@@ -12,5 +12,4 @@
 
 #### Курсы
 
-- [Python and Statistics for Financial Analysis](ipynb/python_and_statistics_for_finanalysis.ipynb)
-- [Financial Markets]()
+- [Python and Statistics for Financial Analysis](ipynb/python_and_statistics_for_financial_analysis.ipynb)
